@@ -1,0 +1,2 @@
+/Users/prom1/AndroidStudioProjects/package/flutter_clickpay_bridge/example/android/app/.cxx/Debug/as3g3f37/x86/CMakeFiles/edit_cache.dir
+/Users/prom1/AndroidStudioProjects/package/flutter_clickpay_bridge/example/android/app/.cxx/Debug/as3g3f37/x86/CMakeFiles/rebuild_cache.dir

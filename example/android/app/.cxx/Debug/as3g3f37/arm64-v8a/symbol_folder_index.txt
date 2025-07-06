@@ -1,0 +1,1 @@
+/Users/prom1/AndroidStudioProjects/package/flutter_clickpay_bridge/example/build/app/intermediates/cxx/Debug/as3g3f37/obj/arm64-v8a

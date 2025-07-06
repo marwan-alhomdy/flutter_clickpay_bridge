@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/prom1/Developer/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/prom1/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/prom1/AndroidStudioProjects/package/flutter_clickpay_bridge/example/android/app/.cxx/Debug/as3g3f37/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/prom1/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/prom1/AndroidStudioProjects/package/flutter_clickpay_bridge/example/android/app/.cxx/Debug/as3g3f37/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}
